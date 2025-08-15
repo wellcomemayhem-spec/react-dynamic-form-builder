@@ -14,3 +14,7 @@ dist/
 
 # Environment variable files
 .env
+
+# Logs and temporary files
+logs/
+temp/
