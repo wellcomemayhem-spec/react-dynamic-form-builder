@@ -1,6 +1,6 @@
 {
   "name": "react-dynamic-form-builder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "src/index.js",
   "dependencies": {
     "react": "^18.0.0",
