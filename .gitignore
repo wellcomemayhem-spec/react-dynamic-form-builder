@@ -1,8 +1,16 @@
 # This .gitignore file specifies files and directories to be ignored by git
 # Including build artifacts, environment files, and OS-specific files
+
+# Node.js dependencies
 node_modules/
+
+# Build artifacts
 built/
 dist/
 .cache/
+
+# macOS specific files
 .DS_Store
+
+# Environment variable files
 .env
