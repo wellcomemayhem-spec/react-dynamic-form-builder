@@ -1,6 +1,6 @@
 {
   "name": "react-dynamic-form-builder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.js",
   "dependencies": {
     "react": "^18.0.0",
@@ -25,5 +25,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "license": "MIT"
 }
